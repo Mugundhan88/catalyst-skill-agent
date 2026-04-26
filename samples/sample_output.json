@@ -1,0 +1,37 @@
+{
+  "skills_analysis": [
+    {
+      "skill": "React.js",
+      "jd_requirement": true,
+      "proficiency": 8,
+      "evidence": "Developed responsive web applications using React.js and JavaScript."
+    },
+    {
+      "skill": "Next.js",
+      "jd_requirement": true,
+      "proficiency": 2,
+      "evidence": "No specific mention in the resume."
+    },
+    {
+      "skill": "Node.js",
+      "jd_requirement": true,
+      "proficiency": 6,
+      "evidence": "Skills: Node.js."
+    }
+  ],
+  "critical_gaps": [
+    "Next.js",
+    "PostgreSQL",
+    "AWS"
+  ],
+  "learning_plan": [
+    {
+      "skill": "Next.js",
+      "resource_name": "Next.js Documentation",
+      "resource_link": "https://nextjs.org/docs",
+      "time_estimate": "3 weeks",
+      "why_this_skill": "Enhances React skills with server-side rendering capabilities."
+    }
+  ],
+  "overall_score": 45
+}

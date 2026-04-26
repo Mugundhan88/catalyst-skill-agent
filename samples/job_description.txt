@@ -1,0 +1,5 @@
+Role: Senior Fullstack Engineer (Next.js & AWS)
+Requirements:
+- Strong proficiency in React.js and Next.js (App Router).
+- Experience with TypeScript and Tailwind CSS.
+- Cloud experience with AWS.
